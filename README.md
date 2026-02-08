@@ -22,6 +22,10 @@ The models were trained using an appropriate train-test split strategy to ensure
 Overall, this task successfully demonstrates the end-to-end process of predictive analysis using machine learning. By combining proper feature selection, model training, and evaluation within a structured notebook, the task highlights practical machine learning skills and showcases how data can be transformed into meaningful predictions with real-world applications.
 
 *OUTPUTS*:
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/4c1a7508-a503-4e48-8ff7-4b976076e442" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/9a250bbb-8a3a-41bc-9afd-967281f17cb9" />
+
 <img width="2534" height="1105" alt="Image" src="https://github.com/user-attachments/assets/59938fb1-627e-4391-accf-c179347cb307" />
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/2abebe78-8777-4750-952b-0a5ed6f2239b" />
@@ -34,7 +38,5 @@ Overall, this task successfully demonstrates the end-to-end process of predictiv
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/de80677a-6624-4e3b-a91d-c2dca69f897d" />
 
-<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/4c1a7508-a503-4e48-8ff7-4b976076e442" />
 
-<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/9a250bbb-8a3a-41bc-9afd-967281f17cb9" />
 
